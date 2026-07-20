@@ -12,6 +12,7 @@ using Utilities;
 //Me too, thank`s
 //Don`t u think that the weather is fine too?
 //Sure, it is
+//You know, it`s too convinient to continue next step
 namespace Controller
 {
     public class BotController
