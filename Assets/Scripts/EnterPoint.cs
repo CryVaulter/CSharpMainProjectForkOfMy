@@ -15,6 +15,9 @@ public class EnterPoint : MonoBehaviour
     /*/
      * waata baka tsugite
      * 
+     * 
+     * we will not stop the shih from happening
+     * we... we are the shihfighters!
      */
 
     void Start()
