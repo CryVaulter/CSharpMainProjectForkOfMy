@@ -12,6 +12,11 @@ public class EnterPoint : MonoBehaviour
     [SerializeField] private Canvas _targetCanvas;
     private float _timeScale = 1;
     
+    /*/
+     * waata baka tsugite
+     * 
+     */
+
     void Start()
     {
         Time.timeScale = _timeScale;
