@@ -10,14 +10,10 @@ public class EnterPoint : MonoBehaviour
 {
     [SerializeField] private Settings _settings;
     [SerializeField] private Canvas _targetCanvas;
-    private float _timeScale = 1;
+    private float _timeScale = 5;
     
     /*/
-     * waata baka tsugite
-     * 
-     * 
-     * we will not stop the shih from happening
-     * we... we are the shihfighters!
+     * изменён масшатб времени на 5
      */
 
     void Start()
