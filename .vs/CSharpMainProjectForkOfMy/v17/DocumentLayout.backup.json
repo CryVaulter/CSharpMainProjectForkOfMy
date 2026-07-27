@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\GitFork\\CSharpMainProjectForkOfMy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76DAA7C6-AB58-CBCE-6D56-6B55B8F46D54}|Root.csproj|d:\\gitfork\\csharpmainprojectforkofmy\\assets\\scripts\\controller\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76DAA7C6-AB58-CBCE-6D56-6B55B8F46D54}|Root.csproj|solutionrelative:assets\\scripts\\controller\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76DAA7C6-AB58-CBCE-6D56-6B55B8F46D54}|Root.csproj|D:\\GitFork\\CSharpMainProjectForkOfMy\\assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76DAA7C6-AB58-CBCE-6D56-6B55B8F46D54}|Root.csproj|solutionrelative:assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BotController.cs",
-              "DocumentMoniker": "D:\\GitFork\\CSharpMainProjectForkOfMy\\Assets\\Scripts\\Controller\\BotController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\BotController.cs",
-              "ToolTip": "D:\\GitFork\\CSharpMainProjectForkOfMy\\Assets\\Scripts\\Controller\\BotController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Controller\\BotController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T20:13:17.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "EnterPoint.cs",
               "DocumentMoniker": "D:\\GitFork\\CSharpMainProjectForkOfMy\\Assets\\Scripts\\EnterPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnterPoint.cs",
               "ToolTip": "D:\\GitFork\\CSharpMainProjectForkOfMy\\Assets\\Scripts\\EnterPoint.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnterPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T19:41:37.834Z"
+              "WhenOpened": "2026-07-20T19:41:37.834Z",
+              "EditorCaption": ""
             }
           ]
         }
