@@ -7,19 +7,27 @@ public class MyFirstScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        int i = 3;
-        i += 5;
-        i -= 2;
-        i /= 3;
-        bool b = (i <= 2) && (i == 2);
+        //int n = 20;
+        //int s = 0;
+        //int p = 1;
 
-        Debug.Log(b);
-       
+        //if (n>=0)
+        //{
+        //    for (int a = 1; a < n; a++)
+        //    {
+        //        s += a;
+        //        p *= a;
+        //    }
+        //}   else
+        //{
+        //    Debug.Log("Try another time :}");
+        //}
+
+        //    Debug.Log(s);
+        //Debug.Log(p);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
+
+
 }
